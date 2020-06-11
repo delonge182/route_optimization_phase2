@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Apperley, Newcastle upon Tyne NE5 2JS, UK" ],
+   "origin_addresses" : [ "The Chare, Newcastle upon Tyne NE1 4DD, UK" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.2 km",
+                  "value" : 7181
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

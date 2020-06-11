@@ -1,0 +1,273 @@
+,origin,destination,distance,duration
+0,Depot,Customer 1,7181,744
+1,Depot,Customer 2,1345,410
+2,Depot,Customer 3,6460,802
+3,Depot,Customer 4,1062,311
+4,Depot,Customer 5,2690,402
+5,Depot,Customer 6,3390,417
+6,Depot,Customer 7,3573,491
+7,Depot,Customer 8,3394,426
+8,Depot,Customer 9,3263,394
+9,Depot,Customer 10,1371,336
+10,Depot,Customer 11,1607,391
+11,Depot,Customer 12,8506,719
+12,Depot,Customer 13,1302,321
+13,Depot,Customer 14,4660,577
+14,Depot,Customer 15,4253,439
+15,Depot,Customer 16,6460,815
+16,Customer 1,Depot,7326,787
+17,Customer 1,Customer 2,6652,1014
+18,Customer 1,Customer 3,6892,620
+19,Customer 1,Customer 4,6369,915
+20,Customer 1,Customer 5,7898,810
+21,Customer 1,Customer 6,8598,824
+22,Customer 1,Customer 7,8781,898
+23,Customer 1,Customer 8,8602,834
+24,Customer 1,Customer 9,8471,801
+25,Customer 1,Customer 10,5755,835
+26,Customer 1,Customer 11,5273,713
+27,Customer 1,Customer 12,6050,439
+28,Customer 1,Customer 13,5837,862
+29,Customer 1,Customer 14,9868,984
+30,Customer 1,Customer 15,4294,569
+31,Customer 1,Customer 16,6891,633
+32,Customer 2,Depot,3529,471
+33,Customer 2,Customer 1,8739,857
+34,Customer 2,Customer 3,7650,859
+35,Customer 2,Customer 4,1752,584
+36,Customer 2,Customer 5,1963,385
+37,Customer 2,Customer 6,1831,369
+38,Customer 2,Customer 7,2014,443
+39,Customer 2,Customer 8,1835,379
+40,Customer 2,Customer 9,1704,346
+41,Customer 2,Customer 10,2700,735
+42,Customer 2,Customer 11,2452,625
+43,Customer 2,Customer 12,10064,832
+44,Customer 2,Customer 13,2631,721
+45,Customer 2,Customer 14,3101,529
+46,Customer 2,Customer 15,5812,552
+47,Customer 2,Customer 16,7650,872
+48,Customer 3,Depot,6686,784
+49,Customer 3,Customer 1,6828,616
+50,Customer 3,Customer 2,7561,1074
+51,Customer 3,Customer 4,7279,975
+52,Customer 3,Customer 5,6227,810
+53,Customer 3,Customer 6,6927,824
+54,Customer 3,Customer 7,7110,898
+55,Customer 3,Customer 8,6931,834
+56,Customer 3,Customer 9,6800,801
+57,Customer 3,Customer 10,6875,868
+58,Customer 3,Customer 11,6903,915
+59,Customer 3,Customer 12,2359,268
+60,Customer 3,Customer 13,6805,854
+61,Customer 3,Customer 14,8197,984
+62,Customer 3,Customer 15,6231,685
+63,Customer 3,Customer 16,248,53
+64,Customer 4,Depot,3934,625
+65,Customer 4,Customer 1,9144,1011
+66,Customer 4,Customer 2,495,232
+67,Customer 4,Customer 3,8055,1014
+68,Customer 4,Customer 5,2367,539
+69,Customer 4,Customer 6,2235,523
+70,Customer 4,Customer 7,2418,597
+71,Customer 4,Customer 8,2240,533
+72,Customer 4,Customer 9,2109,500
+73,Customer 4,Customer 10,3091,885
+74,Customer 4,Customer 11,2843,775
+75,Customer 4,Customer 12,10469,986
+76,Customer 4,Customer 13,3022,871
+77,Customer 4,Customer 14,3506,683
+78,Customer 4,Customer 15,6216,706
+79,Customer 4,Customer 16,8055,1026
+80,Customer 5,Depot,2623,390
+81,Customer 5,Customer 1,7833,776
+82,Customer 5,Customer 2,2228,505
+83,Customer 5,Customer 3,6744,778
+84,Customer 5,Customer 4,3652,637
+85,Customer 5,Customer 6,384,96
+86,Customer 5,Customer 7,1062,248
+87,Customer 5,Customer 8,644,143
+88,Customer 5,Customer 9,358,103
+89,Customer 5,Customer 10,5412,590
+90,Customer 5,Customer 11,5440,638
+91,Customer 5,Customer 12,9158,751
+92,Customer 5,Customer 13,5343,576
+93,Customer 5,Customer 14,1675,263
+94,Customer 5,Customer 15,4906,471
+95,Customer 5,Customer 16,6744,791
+96,Customer 6,Depot,2839,464
+97,Customer 6,Customer 1,8049,850
+98,Customer 6,Customer 2,2122,543
+99,Customer 6,Customer 3,6960,853
+100,Customer 6,Customer 4,3868,712
+101,Customer 6,Customer 5,362,133
+102,Customer 6,Customer 7,1152,315
+103,Customer 6,Customer 8,653,184
+104,Customer 6,Customer 9,252,141
+105,Customer 6,Customer 10,5628,665
+106,Customer 6,Customer 11,5656,712
+107,Customer 6,Customer 12,9374,825
+108,Customer 6,Customer 13,5559,650
+109,Customer 6,Customer 14,1890,338
+110,Customer 6,Customer 15,5121,545
+111,Customer 6,Customer 16,6960,865
+112,Customer 7,Depot,3871,545
+113,Customer 7,Customer 1,9081,931
+114,Customer 7,Customer 2,2131,544
+115,Customer 7,Customer 3,7992,933
+116,Customer 7,Customer 4,3767,736
+117,Customer 7,Customer 5,1117,266
+118,Customer 7,Customer 6,1234,302
+119,Customer 7,Customer 8,697,198
+120,Customer 7,Customer 9,1107,279
+121,Customer 7,Customer 10,6660,745
+122,Customer 7,Customer 11,4466,778
+123,Customer 7,Customer 12,10406,906
+124,Customer 7,Customer 13,6591,731
+125,Customer 7,Customer 14,1724,344
+126,Customer 7,Customer 15,6154,626
+127,Customer 7,Customer 16,7992,946
+128,Customer 8,Depot,3016,442
+129,Customer 8,Customer 1,8226,828
+130,Customer 8,Customer 2,2054,508
+131,Customer 8,Customer 3,7138,831
+132,Customer 8,Customer 4,3973,761
+133,Customer 8,Customer 5,632,138
+134,Customer 8,Customer 6,870,167
+135,Customer 8,Customer 7,631,182
+136,Customer 8,Customer 9,844,173
+137,Customer 8,Customer 10,5805,643
+138,Customer 8,Customer 11,5833,690
+139,Customer 8,Customer 12,9552,803
+140,Customer 8,Customer 13,5736,629
+141,Customer 8,Customer 14,1763,269
+142,Customer 8,Customer 15,5299,524
+143,Customer 8,Customer 16,7137,843
+144,Customer 9,Depot,3332,426
+145,Customer 9,Customer 1,8542,813
+146,Customer 9,Customer 2,1973,472
+147,Customer 9,Customer 3,7453,815
+148,Customer 9,Customer 4,4361,674
+149,Customer 9,Customer 5,482,118
+150,Customer 9,Customer 6,351,102
+151,Customer 9,Customer 7,1003,245
+152,Customer 9,Customer 8,503,114
+153,Customer 9,Customer 10,6121,627
+154,Customer 9,Customer 11,6149,675
+155,Customer 9,Customer 12,9867,787
+156,Customer 9,Customer 13,6052,613
+157,Customer 9,Customer 14,2011,322
+158,Customer 9,Customer 15,5614,508
+159,Customer 9,Customer 16,7453,828
+160,Customer 10,Depot,1383,334
+161,Customer 10,Customer 1,7260,833
+162,Customer 10,Customer 2,1975,464
+163,Customer 10,Customer 3,6833,828
+164,Customer 10,Customer 4,1692,365
+165,Customer 10,Customer 5,4498,594
+166,Customer 10,Customer 6,5197,609
+167,Customer 10,Customer 7,5380,683
+168,Customer 10,Customer 8,5201,618
+169,Customer 10,Customer 9,5071,586
+170,Customer 10,Customer 11,482,130
+171,Customer 10,Customer 12,8585,808
+172,Customer 10,Customer 13,495,139
+173,Customer 10,Customer 14,6468,768
+174,Customer 10,Customer 15,3378,473
+175,Customer 10,Customer 16,6832,841
+176,Customer 11,Depot,1619,383
+177,Customer 11,Customer 1,6274,786
+178,Customer 11,Customer 2,1600,351
+179,Customer 11,Customer 3,7069,877
+180,Customer 11,Customer 4,1317,252
+181,Customer 11,Customer 5,3472,658
+182,Customer 11,Customer 6,3341,642
+183,Customer 11,Customer 7,3523,716
+184,Customer 11,Customer 8,3345,652
+185,Customer 11,Customer 9,3214,619
+186,Customer 11,Customer 10,482,122
+187,Customer 11,Customer 12,9752,817
+188,Customer 11,Customer 13,731,188
+189,Customer 11,Customer 14,4611,802
+190,Customer 11,Customer 15,2889,446
+191,Customer 11,Customer 16,7069,889
+192,Customer 12,Depot,6687,581
+193,Customer 12,Customer 1,4469,348
+194,Customer 12,Customer 2,8601,803
+195,Customer 12,Customer 3,5149,438
+196,Customer 12,Customer 4,7263,790
+197,Customer 12,Customer 5,7259,603
+198,Customer 12,Customer 6,7958,618
+199,Customer 12,Customer 7,8141,691
+200,Customer 12,Customer 8,7963,627
+201,Customer 12,Customer 9,7832,594
+202,Customer 12,Customer 10,6859,683
+203,Customer 12,Customer 11,7952,688
+204,Customer 12,Customer 13,6790,669
+205,Customer 12,Customer 14,9229,777
+206,Customer 12,Customer 15,3872,418
+207,Customer 12,Customer 16,5149,450
+208,Customer 13,Depot,1314,313
+209,Customer 13,Customer 1,7191,812
+210,Customer 13,Customer 2,1906,443
+211,Customer 13,Customer 3,6764,807
+212,Customer 13,Customer 4,1623,344
+213,Customer 13,Customer 5,4429,573
+214,Customer 13,Customer 6,5128,587
+215,Customer 13,Customer 7,5311,661
+216,Customer 13,Customer 8,5132,597
+217,Customer 13,Customer 9,5002,564
+218,Customer 13,Customer 10,495,130
+219,Customer 13,Customer 11,731,185
+220,Customer 13,Customer 12,8516,787
+221,Customer 13,Customer 14,6399,747
+222,Customer 13,Customer 15,3309,452
+223,Customer 13,Customer 16,6763,819
+224,Customer 14,Depot,4673,569
+225,Customer 14,Customer 1,9883,955
+226,Customer 14,Customer 2,3314,615
+227,Customer 14,Customer 3,8794,958
+228,Customer 14,Customer 4,4846,869
+229,Customer 14,Customer 5,1713,265
+230,Customer 14,Customer 6,1951,294
+231,Customer 14,Customer 7,1674,290
+232,Customer 14,Customer 8,1765,269
+233,Customer 14,Customer 9,1925,300
+234,Customer 14,Customer 10,7462,770
+235,Customer 14,Customer 11,7490,817
+236,Customer 14,Customer 12,11208,930
+237,Customer 14,Customer 13,7393,756
+238,Customer 14,Customer 15,6955,651
+239,Customer 14,Customer 16,8794,970
+240,Customer 15,Depot,4361,500
+241,Customer 15,Customer 1,4070,549
+242,Customer 15,Customer 2,4115,696
+243,Customer 15,Customer 3,7400,725
+244,Customer 15,Customer 4,3833,597
+245,Customer 15,Customer 5,4933,523
+246,Customer 15,Customer 6,5633,537
+247,Customer 15,Customer 7,5815,611
+248,Customer 15,Customer 8,5637,547
+249,Customer 15,Customer 9,5506,514
+250,Customer 15,Customer 10,3428,490
+251,Customer 15,Customer 11,2866,469
+252,Customer 15,Customer 12,6558,544
+253,Customer 15,Customer 13,3359,476
+254,Customer 15,Customer 14,6903,697
+255,Customer 15,Customer 16,7400,737
+256,Customer 16,Depot,6686,786
+257,Customer 16,Customer 1,6827,617
+258,Customer 16,Customer 2,7561,1075
+259,Customer 16,Customer 3,248,50
+260,Customer 16,Customer 4,7278,976
+261,Customer 16,Customer 5,6227,811
+262,Customer 16,Customer 6,6927,826
+263,Customer 16,Customer 7,7109,900
+264,Customer 16,Customer 8,6931,835
+265,Customer 16,Customer 9,6800,803
+266,Customer 16,Customer 10,6874,870
+267,Customer 16,Customer 11,6902,917
+268,Customer 16,Customer 12,2358,269
+269,Customer 16,Customer 13,6805,855
+270,Customer 16,Customer 14,8197,985
+271,Customer 16,Customer 15,6231,687
